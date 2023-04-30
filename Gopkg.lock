@@ -176,6 +176,14 @@
   version = "v2.2.4"
 
 [[projects]]
+  branch = "master"
+  digest = "1:06f311cdb009cee66e46167b31fe84f424a1a4012dcee382888145dee116fb8d"
+  name = "github.com/tparsa/telegram-bot-api"
+  packages = ["."]
+  pruneopts = ""
+  revision = "db74afc7a215f17bcd0dddb1df01ccf083acf5f1"
+
+[[projects]]
   digest = "1:2e7f653483e51243b6cd6de60ce39bde0d6927d10a3c24295ab0f82cb1efeae2"
   name = "github.com/ugorji/go"
   packages = ["codec"]
@@ -296,11 +304,11 @@
     "github.com/mrjones/oauth",
     "github.com/requilence/integram",
     "github.com/requilence/jobs",
-    "github.com/requilence/telegram-bot-api",
     "github.com/requilence/url",
     "github.com/sirupsen/logrus",
     "github.com/throttled/throttled",
     "github.com/throttled/throttled/store/memstore",
+    "github.com/tparsa/telegram-bot-api",
     "github.com/vova616/xxhash",
     "github.com/weekface/mgorus",
     "golang.org/x/oauth2",
