@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	tg "github.com/requilence/telegram-bot-api"
+	tg "github.com/tparsa/telegram-bot-api"
 	log "github.com/sirupsen/logrus"
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"

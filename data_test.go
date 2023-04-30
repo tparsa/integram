@@ -11,7 +11,7 @@ import (
 	"github.com/requilence/url"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
-	tg "github.com/requilence/telegram-bot-api"
+	tg "github.com/tparsa/telegram-bot-api"
 	"strings"
 	"os"
 	"strconv"

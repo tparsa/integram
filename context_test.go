@@ -16,7 +16,7 @@ import (
 	"github.com/requilence/url"
 	"golang.org/x/oauth2"
 	"gopkg.in/mgo.v2"
-	tg "github.com/requilence/telegram-bot-api"
+	tg "github.com/tparsa/telegram-bot-api"
 	"io"
 	"net/http"
 	"os"

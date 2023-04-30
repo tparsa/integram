@@ -118,6 +118,14 @@
 
 [[projects]]
   branch = "master"
+  digest = "1:4cfc23b92509f49de48b800f4c161a64ed068b30450a822fa73095978996bbef"
+  name = "github.com/requilence/integram"
+  packages = ["."]
+  pruneopts = ""
+  revision = "7464d2640e02b382d19b64826a554d717ad52995"
+
+[[projects]]
+  branch = "master"
   digest = "1:a0cf124e491096e935f8db7aaf1465d13c99b283bde2d28d023d9e0ef6c44a78"
   name = "github.com/requilence/jobs"
   packages = ["."]
@@ -286,6 +294,7 @@
     "github.com/kelseyhightower/envconfig",
     "github.com/kennygrant/sanitize",
     "github.com/mrjones/oauth",
+    "github.com/requilence/integram",
     "github.com/requilence/jobs",
     "github.com/requilence/telegram-bot-api",
     "github.com/requilence/url",

@@ -9,7 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
-	tg "github.com/requilence/telegram-bot-api"
+	tg "github.com/tparsa/telegram-bot-api"
 	"image"
 	"image/color"
 	"image/draw"
